@@ -1,0 +1,16 @@
+*.pyc
+*.db
+*.orig
+*.iml
+
+.coverage
+.DS_Store
+
+.idea/*
+
+atlassian-ide-plugin.xml
+
+dist/*
+build/*
+*.egg-info/*
+*.egg
