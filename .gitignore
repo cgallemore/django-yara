@@ -3,6 +3,7 @@
 *.orig
 *.iml
 
+.noseids
 .coverage
 .DS_Store
 

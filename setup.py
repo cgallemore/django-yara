@@ -12,7 +12,10 @@ if sys.argv[-1] == 'publish':
     publish()
     sys.exit()
 
-install_requires = []
+install_requires = [
+    'Django>=1.5',
+    'django-extensions==1.1.1'
+]
 
 setup(
     name='django-yara',

@@ -1,0 +1,563 @@
+[
+    {
+        "pk": "AL",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Alabama"
+        }
+    },
+    {
+        "pk": "AK",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Alaska"
+        }
+    },
+    {
+        "pk": "AZ",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Arizona"
+        }
+    },
+    {
+        "pk": "AR",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Arkansas"
+        }
+    },
+    {
+        "pk": "CA",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "California"
+        }
+    },
+    {
+        "pk": "CO",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Colorado"
+        }
+    },
+    {
+        "pk": "CT",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Connecticut"
+        }
+    },
+    {
+        "pk": "DE",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Delaware"
+        }
+    },
+    {
+        "pk": "DC",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "District of Columbia"
+        }
+    },
+    {
+        "pk": "FL",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Florida"
+        }
+    },
+    {
+        "pk": "GA",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Georgia"
+        }
+    },
+    {
+        "pk": "HI",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Hawaii"
+        }
+    },
+    {
+        "pk": "ID",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Idaho"
+        }
+    },
+    {
+        "pk": "IL",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Illinois"
+        }
+    },
+    {
+        "pk": "IN",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Indiana"
+        }
+    },
+    {
+        "pk": "IA",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Iowa"
+        }
+    },
+    {
+        "pk": "KS",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Kansas"
+        }
+    },
+    {
+        "pk": "KY",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Kentucky"
+        }
+    },
+    {
+        "pk": "LA",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Louisiana"
+        }
+    },
+    {
+        "pk": "ME",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Maine"
+        }
+    },
+    {
+        "pk": "MD",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Maryland"
+        }
+    },
+    {
+        "pk": "MA",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Massachusetts"
+        }
+    },
+    {
+        "pk": "MI",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Michigan"
+        }
+    },
+    {
+        "pk": "MN",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Minnesota"
+        }
+    },
+    {
+        "pk": "MS",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Mississippi"
+        }
+    },
+    {
+        "pk": "MO",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Missouri"
+        }
+    },
+    {
+        "pk": "MT",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Montana"
+        }
+    },
+    {
+        "pk": "NE",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Nebraska"
+        }
+    },
+    {
+        "pk": "NV",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Nevada"
+        }
+    },
+    {
+        "pk": "NH",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "New Hampshire"
+        }
+    },
+    {
+        "pk": "NJ",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "New Jersey"
+        }
+    },
+    {
+        "pk": "NM",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "New Mexico"
+        }
+    },
+    {
+        "pk": "NY",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "New York"
+        }
+    },
+    {
+        "pk": "NC",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "North Carolina"
+        }
+    },
+    {
+        "pk": "ND",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "North Dakota"
+        }
+    },
+    {
+        "pk": "OH",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Ohio"
+        }
+    },
+    {
+        "pk": "OK",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Oklahoma"
+        }
+    },
+    {
+        "pk": "OR",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Oregon"
+        }
+    },
+    {
+        "pk": "PA",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Pennsylvania"
+        }
+    },
+    {
+        "pk": "RI",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Rhode Island"
+        }
+    },
+    {
+        "pk": "SC",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "South Carolina"
+        }
+    },
+    {
+        "pk": "SD",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "South Dakota"
+        }
+    },
+    {
+        "pk": "TN",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Tennessee"
+        }
+    },
+    {
+        "pk": "TX",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Texas"
+        }
+    },
+    {
+        "pk": "UT",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Utah"
+        }
+    },
+    {
+        "pk": "VT",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Vermont"
+        }
+    },
+    {
+        "pk": "VA",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Virginia"
+        }
+    },
+    {
+        "pk": "WA",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Washington"
+        }
+    },
+    {
+        "pk": "WV",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "West Virginia"
+        }
+    },
+    {
+        "pk": "WI",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Wisconsin"
+        }
+    },
+    {
+        "pk": "WY",
+        "model": "yara.state",
+        "fields": {
+            "updated": "2013-06-21 10:18:33",
+            "created": "2013-06-21 10:18:33",
+            "updated_by": null,
+            "created_by": null,
+            "name": "Wyoming"
+        }
+    }
+]
